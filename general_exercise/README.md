@@ -1,5 +1,5 @@
 # ⌨️ Exerícios gerais de Programação Orientada a Objetos
-Pasta contendo exercícios gerais que enolvam variados conceitos sobe Programação Orientada a Objetos. 
+Pasta contendo exercícios gerais que envolvem variados conceitos sobe Programação Orientada a Objetos. 
 
 # 🖥️ Arquivo 01.cpp
 
